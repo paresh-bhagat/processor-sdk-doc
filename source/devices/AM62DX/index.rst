@@ -14,6 +14,7 @@ Linux SDK Software Developer's Guide
    :numbered:
 
    /devices/AM62DX/linux/Overview
+   /devices/AM62DX/linux/edgeai
    /devices/AM62DX/linux/Release_Specific
    /linux/Foundational_Components
    /linux/How_to_Guides
